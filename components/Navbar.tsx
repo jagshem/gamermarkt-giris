@@ -66,9 +66,7 @@ const Navbar = () => {
                   type="search"
                   className="block w-full sm:w-[550px] h-[39px] p-[1rem] pl-[3rem] text-base font-light text-[#495057] bg-white border border-solid border-black  focus:border-blue-500 focus:border-solid"
                   placeholder="Aramak için birşeyler yazın."
-                  size="65"
                   id="searchBar"
-                  autoComplete="off"
                 />
                 <FaSearch className="absolute top-[45%] right-5 transform -translate-y-1/2 text-black" />
               </div>
